@@ -1,9 +1,9 @@
 [
 {
 "id": 1,
-"title": "The Illusion of Digital Sovereignty",
+"title": "Bypassing Windows Defender with PowerShell: A Red Team Deep Dive",
 "date": "2026.03.20",
-"excerpt": "Analyzing why modern national borders are irrelevant in the face of decentralized adversarial infrastructure."
+"excerpt": "Learn how attackers use PowerShell to evade AMSI and Windows Defender. This guide covers obfuscation techniques, reflection loading, and real‑world tradecraft used in penetration testing engagements."
 },
 {
 "id": 2,
