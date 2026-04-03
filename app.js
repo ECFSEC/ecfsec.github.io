@@ -1,6 +1,3 @@
-import React, { useState, useEffect } from 'react';
-import { Shield, Lock, EyeOff, Crosshair, Server, ChevronRight, Activity, Cpu, Menu, X, ArrowRight } from 'lucide-react';
-
 const App = () => {
   const [view, setView] = useState('home');
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
